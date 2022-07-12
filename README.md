@@ -99,7 +99,7 @@ fetch("https://api.ipify.org?format=json")
 
 - Website - [keremgns.com](https://www.keremgns.com)
 - Frontend Mentor - [@keremgunes27](https://www.frontendmentor.io/profile/keremgunes27)
-- Twitter - [@keremmgns](https://www.frontendmentor.io/profile/keremgunes27)
+- Twitter - [@keremmgns](https://twitter.com/keremmgns)
 
 ## Will you buy me a coffee?
 
